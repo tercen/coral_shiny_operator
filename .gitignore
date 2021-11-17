@@ -11,3 +11,5 @@ tempfiles/
 www/json/*json
 www/*png
 www/*json
+www/*
+www/images/*
